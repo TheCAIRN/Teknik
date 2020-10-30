@@ -344,6 +344,15 @@ f.3.5.1 General person words
 remote AI but not this one.  
   
 90 Classification of species  
+** xxxxxxxxx90xxxxxxxxx ITIS.gov Taxonomic Database of species  
+** xxxxxxxxx901xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Bacteria  
+** xxxxxxxxx902xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Protozoa  
+** xxxxxxxxx903xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Plantae  
+** xxxxxxxxx904xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Fungi  
+** xxxxxxxxx905xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Animalia  
+** xxxxxxxxx906xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Chromista  
+** xxxxxxxxx907xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Archaea  
+
 90.50 Based on codes taken from the Taxonomic Serial Number, as registered with ITIS, as maintained by the Smithsonian Institute. Positions 14-20 are a hexadecimal representation of the TSN.  
 91 Domestic pet & livestock breeds  
 91.01 Dog (See AKC)  
