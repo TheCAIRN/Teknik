@@ -30,7 +30,7 @@
 1.2.1.3.3 Warning
 1.2.1.3.4 General terms
 1.2.1.4 Weather history
-1.2.1.5 Wind
+1.2.1.5 Wind  
 1.2.1.5.1 Speed (numeric)
 1.2.1.5.2 Speed (descriptive)
 1.2.1.5.3 Direction
