@@ -1351,3 +1351,29 @@ INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11641ff605010120006','spher
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11641ff605010120007','pyramid',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11641ff605010120008','cube',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11641ff505010120009','box',1);
+INSERT INTO `tektrn` (`lang`, `tek`, `trn`, `wc`) VALUES
+('eng', 'a32cffff5ff0205f1001', 'a', 1),
+('eng', 'a32cffff5ff0205f1001', 'an', 1),
+('eng', 'a326ffff5ff0205f1001', 'the', 1),
+('eng', 'c1194fffc9050002c17c', 'fox', 1),
+('eng', 'c1199fffc9050002c17c', 'foxes', 1),
+('eng', 'c1194fffc9050002c174', 'wolf', 1),
+('eng', 'c1199fffc9050002c174', 'wolves', 1),
+('eng', 'c1194fffc9050002c1d2', 'donkey', 1),
+('eng', 'c1199fffc9050002c1d2', 'donkeys', 1),
+('eng', 'c1194fffc9050002c1d2', 'ass', 1),
+('eng', 'c1199fffc9050002c1d2', 'asses', 1),
+('eng', 'c1194fffc9050002cdfb', 'lion', 1),
+('eng', 'c1199fffc9050002cdfb', 'lions', 1),
+('eng', 'c1194fffc9050002c0e8', 'mouse', 1),
+('eng', 'c1199fffc9050002c0e8', 'mice', 1),
+('eng', 'c1194fffc905000b1725', 'dog', 1),
+('eng', 'c1199fffc905000b1725', 'dogs', 1),
+('eng', 'c1194fffc9050002cdf6', 'cat', 1),
+('eng', 'c1199fffc9050002cdf6', 'cats', 1),
+('eng', 'c1194fffc9050002acb0', 'eagle', 1),
+('eng', 'c1199fffc9050002acb0', 'eagles', 1),
+('eng', 'c1194fffc9050002c1e5', 'sheep', 1),
+('eng', 'c1199fffc9050002c1e5', 'sheep', 1),
+('eng', 'c1194fffc9050002c1eb', 'goat', 1),
+('eng', 'c1199fffc9050002c1eb', 'goats', 1);
