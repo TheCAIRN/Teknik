@@ -1377,3 +1377,32 @@ INSERT INTO `tektrn` (`lang`, `tek`, `trn`, `wc`) VALUES
 ('eng', 'c1199fffc9050002c1e5', 'sheep', 1),
 ('eng', 'c1194fffc9050002c1eb', 'goat', 1),
 ('eng', 'c1199fffc9050002c1eb', 'goats', 1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11000','zeroth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11001','first',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11002','second',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11003','third',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11004','fourth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11005','fifth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11006','sixth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11007','seventh',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11008','eighth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11009','ninth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11010','tenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11011','eleventh',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11012','twelfth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11013','thirteenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11014','fourteenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11015','fifteenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11016','sixteenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11017','seventeenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11018','eighteenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11019','nineteenth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11020','twentieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11030','thirtieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11040','fortieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11050','fiftieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11060','sixtieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11070','seventieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11080','eightieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11090','ninetieth',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff03fe11100','hundredth',1);
