@@ -102,6 +102,7 @@
 1.8.2.2.3 Stalked  
 1.8.2.3 Legumes  
 1.8.2.4 Grains  
+1.8.2.5 Nuts
 1.8.3 Dairy  
 1.8.4 Seafood  
 1.8.5 Poultry  
