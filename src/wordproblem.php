@@ -83,7 +83,7 @@ while (($problem=fgets($fp))!==false) {
 			$names[$nameCtr++] = $thisName;
 	}
 	foreach($names as $nameKey=>$name) {
-		$parts[1] = str_replace($name,sprintf('{19990000%03u}',$nameKey),$parts[1]);
+		$parts[1] = str_replace($name,sprintf('{1aff0000%03u}',$nameKey),$parts[1]);
 	}
 	$stoppedAt = count($names);
 	foreach($sentenceArray as $sentence) {
@@ -100,7 +100,7 @@ while (($problem=fgets($fp))!==false) {
 		}
 	}
 	foreach($names as $nameKey=>$name) {
-		$parts[1] = str_replace($name,sprintf('{19990000%03u}',$nameKey),$parts[1]);
+		$parts[1] = str_replace($name,sprintf('{1aff0000%03u}',$nameKey),$parts[1]);
 	}
 	// 2. Number recognition
 	preg_match_all('/\s\d+\s/',$parts[1],$list,PREG_PATTERN_ORDER|PREG_OFFSET_CAPTURE);
