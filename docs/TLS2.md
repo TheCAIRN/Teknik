@@ -270,6 +270,11 @@ d.2.f.1 Sun*
 d.2.f.2 Moon*  
   
 e History  
+e.1 Dynasties
+e.2 Major conflicts
+e.3 Major treaties
+e.4 Significant disasters
+e.5 Inventions
   
 f Family  
 f.1 Male (see f.3 for subtopics)  
@@ -308,10 +313,13 @@ f.3.5.1 General person words
 19.4 Aquaintances  
 19.5 Famous people  
 19.6 Friends of friends  
-19.7 Historical references  
+19.7 Historical references  (see category 0e (History) to match people with events)
+19.7.1 World Leaders
 19.8 Brief mentions  
   
 1a. Fictional characters  
+1a.1 Characters from Nursery Rhymes
+1a.ff Temporary names used in anecdotes or word problems.
   
 1b. Internet / Library / Mass media  
 1b.1. WWW  
