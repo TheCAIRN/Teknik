@@ -13,10 +13,72 @@ class XlateInEnUs extends XlateIn {
 		$tekintype = 'Unknown';
 	}
 	protected function Numbers($strin) {
-		
+		$strout = $strin;
+		// Positive integers
+		preg_match_all('/\s\d+\s/',$strout,$list,PREG_PATTERN_ORDER|PREG_OFFSET_CAPTURE);
+		foreach($list as $match) {
+			if (is_array($match)) foreach($match as $item) {
+				if ($item[0]==1)
+					$strout = str_replace($item[0],sprintf(' c33644ff6ff0301%05u ',$item[0]),$strout);
+				elseif ($item[0]==2)
+					$strout = str_replace($item[0],sprintf(' c33674ff6ff0301%05u ',$item[0]),$strout);
+				else
+					$strout = str_replace($item[0],sprintf(' c33694ff6ff0301%05u ',$item[0]),$strout);
+			} 
+			else {
+				if ($match[0]==1)
+					$strout = str_replace($match[0],sprintf(' c33644ff6ff0301%05u ',$match[0]),$strout);
+				elseif ($match[0]==2)
+					$strout = str_replace($match[0],sprintf(' c33674ff6ff0301%05u ',$match[0]),$strout);
+				else
+					$strout = str_replace($match[0],sprintf(' c33694ff6ff0301%05u ',$match[0]),$strout);
+			}
+		}		
+		// Negative integers
+		preg_match_all('/\s\-\d+\s/',$strout,$list,PREG_PATTERN_ORDER|PREG_OFFSET_CAPTURE);
+		foreach($list as $match) {
+			if (is_array($match)) foreach($match as $item) {
+				if ($item[0]==1)
+					$strout = str_replace($item[0],sprintf(' c33614ff6ff0301%05u ',$item[0]),$strout);
+				elseif ($item[0]==2)
+					$strout = str_replace($item[0],sprintf(' c336c4ff6ff0301%05u ',$item[0]),$strout);
+				else
+					$strout = str_replace($item[0],sprintf(' c336e4ff6ff0301%05u ',$item[0]),$strout);
+			} 
+			else {
+				if ($match[0]==1)
+					$strout = str_replace($match[0],sprintf(' c33614ff6ff0301%05u ',$match[0]),$strout);
+				elseif ($match[0]==2)
+					$strout = str_replace($match[0],sprintf(' c336c4ff6ff0301%05u ',$match[0]),$strout);
+				else
+					$strout = str_replace($match[0],sprintf(' c336e4ff6ff0301%05u ',$match[0]),$strout);
+			}
+		}		
+		// Positive integer dollars
+		preg_match_all('/\s$\d+\s/',$strout,$list,PREG_PATTERN_ORDER|PREG_OFFSET_CAPTURE);
+		foreach($list as $match) {
+			if (is_array($match)) foreach($match as $item) {
+				if ($item[0]==1)
+					$strout = str_replace($item[0],sprintf(' c33644ff6ff0302%05u ',$item[0]),$strout);
+				elseif ($item[0]==2)
+					$strout = str_replace($item[0],sprintf(' c33674ff6ff0302%05u ',$item[0]),$strout);
+				else
+					$strout = str_replace($item[0],sprintf(' c33694ff6ff0302%05u ',$item[0]),$strout);
+			} 
+			else {
+				if ($match[0]==1)
+					$strout = str_replace($match[0],sprintf(' c33644ff6ff0302%05u ',$match[0]),$strout);
+				elseif ($match[0]==2)
+					$strout = str_replace($match[0],sprintf(' c33674ff6ff0302%05u ',$match[0]),$strout);
+				else
+					$strout = str_replace($match[0],sprintf(' c33694ff6ff0302%05u ',$match[0]),$strout);
+			}
+		}		
+		return $strout;
 	} // private Numbers
 	protected function Punctuation($strin) {
 		/*** TO DO ***/
+		/*** Note: Many punctuation characters are already being translated from the database during Phrases() ***/
 		return $strin;
 	} // private Punctuation
 	protected function Phrases($strin,$mode) {
@@ -63,13 +125,28 @@ class XlateInEnUs extends XlateIn {
 		else $tekintype = 'Statement';
 		$english = $this->Phrases($strin,1);
 		$english = $this->Phrases($english,2);
+		$english = $this->Numbers($english);
 		$english = $this->Punctuation($english);
 		//preg_match_all('/(^(\s[0-9A-Fa-fXx]{20}\s))/',$english,$unklist,PREG_PATTERN_ORDER);
 		$wordsplit = preg_split('/\s/',$english);
+		$verbindex = -1;
+		$wordptr = 0;
 		foreach ($wordsplit as $item) {
+			$istek = false;
 			if (preg_match('/[0-9A-Fa-fXx]{20}/',$item)) $istek=true;
 			elseif (isset($this->unknown[strtolower($item)])) $this->unknown[strtolower($item)]++;
 			else $this->unknown[strtolower($item)] = 1;
+			echo 'Wordptr: '.$wordptr.'; istek: '.$istek.'; Item: '.$item.'; POS: '.($istek?substr($item,1,1):'?').'<BR />';
+			if ($istek && $verbindex==-1 && substr($item,1,1)=='2') {$verbindex=$wordptr;}
+			$wordptr++;
+		}
+		// Sloppy Named Entity Recognition.
+		// TODO: Update gender marker based on pronouns found later in the sentence.
+		// TODO: Dereference pronouns.
+		if ($verbindex==1 && !preg_match('/[0-9A-Fa-fXx]{20}/',$wordsplit[0])) {
+			$this->namereference[$wordsplit[0]] = sprintf('c13f41ff61aff%09u',$this->namecounter);
+			$english = str_replace($wordsplit[0].' ',sprintf('c13f41ff61aff%09u ',$this->namecounter),$english);
+			$this->namecounter++;
 		}
 		return $english;
 	} // public FlatTranslate
