@@ -1,4 +1,5 @@
 # Word Problems (ENG)
+## contributed by Stephanie Tea
 
 ### Word Problems Set 1 (Addition/Subtraction)
 
