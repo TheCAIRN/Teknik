@@ -1,4 +1,5 @@
 # Translated Word Problems (DEU)
+## contributed by Stephanie Tea
 
 ### Word Problems Set 1 (Addition/Subtraction)
 
