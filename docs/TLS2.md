@@ -341,6 +341,12 @@ f.3.5.1 General person words
 1b.ff. General  
   
 1c. Anatomy  
+
+1d. Disease
+
+1e. Physical Health
+
+1f. Mental Health / Psychology / Psychiatry
   
 7f ***** SERIALIZED IDENTIFIER FOR EACH AI INSTANCE *****  
   
