@@ -35,6 +35,7 @@ Noun:
 4 = pronoun  
 5 = possessive noun  
 6 = possessive pronoun  
+7 = collective noun 
 Verb:  
 0 = intransative  
 1 = either vi or vt  
