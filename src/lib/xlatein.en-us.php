@@ -88,6 +88,7 @@ class XlateInEnUs extends XlateIn {
 		 * Include a logging engine
 		 ***/
 		$lstrin = strtolower(trim($strin));
+		if (strlen($lstrin)==0) return $strin; // We have an empty string.
 		$phraselist = array();
 		$dblink = mysqli_connect('localhost','msabalne_teknik','teknikaipw','msabalne_teknik');
 		if (!$dblink) return $strin;
@@ -102,7 +103,7 @@ class XlateInEnUs extends XlateIn {
 // echo "({$row['trn']}:$cpos)";
 				if ($cpos===false) {
 					// Do nothing.
-				} elseif ($cpos > 0 && !ctype_punct(substr($strin,$cpos-1,1)) && !ctype_space(substr($strin,$cpos-1,1))) {
+				} elseif ($cpos > 0 && !ctype_punct($row['trn']) && !ctype_punct(substr($strin,$cpos-1,1)) && !ctype_space(substr($strin,$cpos-1,1))) {
 					// Partial word match
 				} elseif ($cpos+strlen($row['trn']) < strlen($strin) && !ctype_punct(substr($strin,$cpos+strlen($row['trn']),1)) && !ctype_space(substr($strin,$cpos+strlen($row['trn']),1))) {
 					// Partial word match
