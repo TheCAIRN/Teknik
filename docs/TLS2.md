@@ -222,9 +222,9 @@
 7.2.1 In Drama  
 7.2.2 In Narrative  
 7.2.3 In Religious exposition  
-7.ff Literary mechanics
-7.ff.1 Pre-reading
-7.ff.2 Publishing / Bookbinding
+7.ff Literary mechanics   
+7.ff.1 Pre-reading    
+7.ff.2 Publishing / Bookbinding    
   
 8 Earth science  
   
