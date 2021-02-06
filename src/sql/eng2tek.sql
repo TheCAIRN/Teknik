@@ -110,7 +110,7 @@ INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c20f9f115ff020122006','swim'
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c20f9f115ff020122007','dance',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','xxxxxxxxx02040240001','town',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','xxxxxxxxx02040210001','country',1);
-INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','xxxxxxxxx020201fffff','usa',1);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c13541ff602020100000','usa',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','xxxxxxxxx0d010000000','date',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','a366ffff60d010411001','sunday',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','a366ffff60d010411002','monday',1);
@@ -167,7 +167,7 @@ INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c31cffff601020161270','mostl
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c1166f2f601020162430','chance of showers',3);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c1166f2f601020162830','chance of rain',3);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c1166f2f601020162c30','chance of thunderstorms',3);
-INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c13664ff602020119020','bensalem, pa',2);
+INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c13541ff602f20119020','bensalem, pa',2);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff030111000','zero',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff030111001','one',1);
 INSERT INTO tektrn (lang,tek,trn,wc) VALUES ('eng','c11634ff6ff030111002','two',1);
