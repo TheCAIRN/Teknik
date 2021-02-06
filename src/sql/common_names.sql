@@ -19,7 +19,7 @@ CREATE TABLE names (
 
 INSERT INTO names VALUES (1, 'Aarav', 'Sanskrit', 'melodious music', 'आरव्)');
 INSERT INTO names VALUES (2, 'Aaryan', 'Sanskrit', 'honorable, high-born', 'आर्यन');
-INSERT INTO names VALUES (4, 'Abhinav', 'Sanskrit', 'young, new, fresh, modern', 'अभिनव');)
+INSERT INTO names VALUES (4, 'Abhinav', 'Sanskrit', 'young, new, fresh, modern', 'अभिनव');
 INSERT INTO names VALUES (5, 'Adam', 'Hebrew', 'ground, earth, soil', 'אֲדָמָה');
 INSERT INTO names VALUES (6, 'Adele', 'German', 'noble kind or type', '');
 INSERT INTO names VALUES (7, 'Adrian', 'Latin', 'from Hadria', '');
@@ -91,7 +91,7 @@ INSERT INTO names VALUES (70, 'Cristian', 'Spanish', '', '');
 INSERT INTO names VALUES (71, 'Daan', 'Dutch', 'God is my judge', '');
 INSERT INTO names VALUES (72, 'Daisy', 'English', '', '');
 INSERT INTO names VALUES (73, 'Dakari', 'Egyptian', 'happy', '');
-INSERT INTO names VALUES (74, 'Daniil', 'Russian', 'God is my judge', 'Данііл')
+INSERT INTO names VALUES (74, 'Daniil', 'Russian', 'God is my judge', 'Данііл');
 INSERT INTO names VALUES (75, 'Danylo', 'Ukrainian', 'God is my judge', 'Данило');
 INSERT INTO names VALUES (76, 'Daria', 'Persian', 'wealthy, great', '');
 INSERT INTO names VALUES (77, 'Darius', 'Persian', 'possessor of good', '');
@@ -124,7 +124,7 @@ INSERT INTO names VALUES (101, 'Fatima', 'Arabic', 'chaste, motherly', ' فَا�
 INSERT INTO names VALUES (102, 'Felix', 'Latin', 'lucky, successful', '');
 INSERT INTO names VALUES (103, 'Finn', 'German', 'from Finland', '');
 INSERT INTO names VALUES (104, 'Fletcher', 'English', 'arrow maker', '');
-INSERT INTO names VALUES (105, 'Florencia', 'Spanish', '');
+INSERT INTO names VALUES (105, 'Florencia', 'Spanish', '', '');
 INSERT INTO names VALUES (106, 'Frederik', 'Danish', 'peaceful ruler', '');
 INSERT INTO names VALUES (107, 'Freja', 'Danish', 'lady, mistress', '');
 INSERT INTO names VALUES (108, 'Furaha', 'Swahili', 'delight', '');
@@ -188,7 +188,7 @@ INSERT INTO names VALUES (159, 'Juhani', 'Finnish', 'God is gracious', '');
 INSERT INTO names VALUES (160, 'Julia','Latin', 'youth', '');
 INSERT INTO names VALUES (161, 'Kaito','Japanese', 'ocean, Ursa Major', '海斗');
 
-INSERT INTO names VALUES (162, 'Karima', 'Arabic', 'كريمة');
+INSERT INTO names VALUES (162, 'Karima', 'Arabic', '', 'كريمة');
 
 INSERT INTO names VALUES (163, 'Karla', 'German', 'free man, strong', '');
 INSERT INTO names VALUES (164, 'Kostantina', 'Greek', 'steadfast', '');
@@ -225,13 +225,13 @@ INSERT INTO names VALUES (191, 'Mael','Welsh', 'prince', '');
 INSERT INTO names VALUES (192, 'Mahammad', 'Azerbaijani', '', '');
 INSERT INTO names VALUES (193, 'Maite', 'Spanish', 'beloved harvester', '');
 INSERT INTO names VALUES (194, 'Makena', 'Kikuyu', 'happy one', '');
-INSERT INTO names VALUES (194, 'Maksym', 'Polish', '', 'Максим');
-INSERT INTO names VALUES (195, 'Malak', 'Arabic', 'angel', 'ملك');
+INSERT INTO names VALUES (195, 'Maksym', 'Polish', '', 'Максим');
+INSERT INTO names VALUES (196, 'Malak', 'Arabic', 'angel', 'ملك');
 
 INSERT INTO names VALUES (197, 'Manuela', 'Spanish', 'God is with us', '');
-INSERT INTO names VALUES (198, 'Maria Fernanda', 'Spanish', '');
-INSERT INTO names VALUES (199, 'Maria Jose', 'Spanish', '');
-INSERT INTO names VALUES (200, 'Marie', 'French', 'of the sea, bitter', '',);
+INSERT INTO names VALUES (198, 'Maria Fernanda', 'Spanish', '', '');
+INSERT INTO names VALUES (199, 'Maria Jose', 'Spanish', '', '');
+INSERT INTO names VALUES (200, 'Marie', 'French', 'of the sea, bitter', '');
 INSERT INTO names VALUES (201, 'Mariya', 'Russian', 'beloved', 'Мария');
 INSERT INTO names VALUES (202, 'Martin', 'Latin', 'of Mars, warlike', '');
 INSERT INTO names VALUES (203, 'Martina', 'Latin', 'of Mars, warlike', '');
@@ -240,8 +240,8 @@ INSERT INTO names VALUES (204, 'Maryam', 'Arabic', 'sea, flower, bitter', 'مر�
 INSERT INTO names VALUES (205, 'Matias', 'Finnish', 'gift of God', '');
 INSERT INTO names VALUES (206, 'Matilda', 'German', 'mighty in battle', '');
 INSERT INTO names VALUES (207, 'Matteo','Italian', 'gift of God', '');
-INSERT INTO names VALUES (208, 'Matviy', 'Ukranian', 'bitter', 'Матвій')
-INSERT INTO names VALUES (209, 'Mavuto', 'Chewa', 'troubles, problems', '');;
+INSERT INTO names VALUES (208, 'Matviy', 'Ukranian', 'bitter', 'Матвій');
+INSERT INTO names VALUES (209, 'Mavuto', 'Chewa', 'troubles, problems', '');
 INSERT INTO names VALUES (210, 'Maya', 'Hebrew', 'water', 'מַיָּה');
 INSERT INTO names VALUES (211, 'Melissa', 'Greek', 'bee', 'Μέλισσα');
 INSERT INTO names VALUES (212, 'Meriem', 'Turkish', '', '');
@@ -436,7 +436,12 @@ INSERT INTO names VALUES (373, 'Bao', 'Chinese', 'bud', '苞');
 INSERT INTO names VALUES (374, 'Hua', 'Chinese', 'splendid, illustrious', '华');
 INSERT INTO names VALUES (375, 'Huang', 'Chinese', 'bright,shining, luminous', '煌');
 INSERT INTO names VALUES (376, 'Hui', 'Chinese', 'brightness', '辉');
-INSERT INTO names VALUES (377, 'Hinata', 'Japanese', 'toward thesun', '陽向');
+INSERT INTO names VALUES (377, 'Hinata', 'Japanese', 'toward the sun', '陽向');
 INSERT INTO names VALUES (378, 'Hinata', 'Japanese', 'sunflower', '向日葵');
 INSERT INTO names VALUES (379, 'Kaito', 'Japanese', 'ocean, soar', '海翔');
 INSERT INTO names VALUES (380, 'Ren', 'Japanese', 'love', '恋');
+
+
+
+
+
