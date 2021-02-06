@@ -154,36 +154,36 @@
 2.1.b Arctic Ocean  
 2.2 Political  
 2.2.1 USA  
-2.2.1.f.a States  
-2.2.1.f.b Counties  
-2.2.1.f.c Cities (major)  
-2.2.1.xxxxx xxxxx = ZIP code of town referenced  
+2.2.1.xx States  
+2.2.1.xx0yy Counties  
+2.2.1.xx[1-f]zz Cities (major)  
+2.f2.1.xxxxx xxxxx = ZIP code of town referenced  
 2.2.2 Canada  
-2.2.81 Japan  
-2.3 Lat / Long  
-2.3.1 Latitude  
-2.3.1.1 Degrees  
-2.3.1.2 Minutes  
-2.3.1.3 Seconds  
-2.3.1.4 Hemisphere (1=N,2=S)  
-2.3.2 Longitude  
-2.3.2.1 Degrees  
-2.3.2.2 Minutes  
-2.3.2.3 Seconds  
-2.3.2.4 Hemisphere (1=E,2=W)  
-2.3.3z.z.9.9zz Maidenhead 6-digit grid (using full Latin charset (case insensitive): Bensalem, PA = 02033fn20md)  
-2.4 Names of specific places  
-2.4.1 Natural  
-2.4.2 Political  
-2.4.2.1 International  
-2.4.2.2 National  
-2.4.2.3 Regional  
-2.4.2.4 Local  
-2.4.2.4.1 Municipal  
-2.4.2.4.2 Educational  
-2.4.2.4.3 Community  
-2.4.2.4.4 Commercial  
-2.4.2.4.5 Residential  
+2.2.51 Japan  
+2.a Lat / Long  
+2.a.1 Latitude  
+2.a.1.1 Degrees  
+2.a.1.2 Minutes  
+2.a.1.3 Seconds  
+2.a.1.4 Hemisphere (1=N,2=S)  
+2.a.2 Longitude  
+2.a.2.1 Degrees  
+2.a.2.2 Minutes  
+2.a.2.3 Seconds  
+2.a.2.4 Hemisphere (1=E,2=W)  
+2.a.3z.z.9.9zz Maidenhead 6-digit grid (using full Latin charset (case insensitive): Bensalem, PA = 02033fn20md)  
+2.b Names of specific places  
+2.b.1 Natural  
+2.b.2 Political  
+2.b.2.1 International  
+2.b.2.2 National  
+2.b.2.3 Regional  
+2.b.2.4 Local  
+2.b.2.4.1 Municipal  
+2.b.2.4.2 Educational  
+2.b.2.4.3 Community  
+2.b.2.4.4 Commercial  
+2.b.2.4.5 Residential  
   
 3 Jobs  
   
