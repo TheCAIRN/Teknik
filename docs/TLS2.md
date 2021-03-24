@@ -1,7 +1,43 @@
+### Table of Contents:
+#### [1 - Common Words and Phrases](#1---common-words-and-phrases-1) #### 
+#### [2 - Geography](#2---geography-1) #### 
+#### [3 - Jobs](#3---jobs-1) ####
+#### [4 - Education](#4---education-1) ####
+#### [5 - Fine Arts](#5---fine-arts-1) ####
+#### [6 - Musical Art](#6---musical-art-1) ####
+#### [7 - Literature](#7---literature-1) ####
+#### [8 - Earth Science](#8---earth-science-1) ####
+#### [9 - Biology](#9---biology-1) ####
+#### [a - Chemistry](#a---chemistry-1) ####
+#### [b - Physics](#b---physics-1) ####
+#### [c - Mathematics](#c---mathematics-1) ####
+#### [d - Time](#d---time-1) ####
+#### [e - History](#e---history-1) ####
+#### [f - Family](#f---family-1) ####
+#### [10 - Psychology](#10---psychology-1) ####
+#### [11 - Sociology](#11---sociology-1) ####
+#### [12 - Criminology](#12---criminology-1) ####
+#### [13 - Civics](#13---civics-1) ####
+#### [14 - Politics](#14---politics-1) ####
+#### [15 - Business](#15---business-1) ####
+#### [16 - Religion](#16---religion-1) ####
+#### [17 - Language](#17---language-1) ####
+#### [18 - Emotions](#18---emotions-1) ####
+#### [19 - Who I Know](#19---who-i-know-1) ####
+#### [1a - Fictional Characters](#1a---fictional-characters-1) ####
+#### [1b - Internet / Library / Mass Media](#1b-internet--library--mass-media-1) ####
+#### [1c - Anatomy](#18---anatomy-1) ####
+#### [fd - Computer Programming Scripted Functions](#fd---computer-programming-scripted-functions-1) ####
+#### [fe - Computer Programming Primitives (initially via Euphoria)](#fe---computer-programming-primitives-initially-via-euphoria-1) ####
+#### [80 - Teknik Tags](#80---teknik-tags-1) ####
+#### [90 - Classification of Species](#90---classification-of-species-1) ####
+#### [91 - Domestic Pet & Livestock Breeds](#91-domestic-pet--livestock-breeds-1) ####
+
+
 ****************************** Topic Definitions ******************************  
-  
-1 Common words and phrases  
-1.1 General intros  
+
+### 1 - Common Words and Phrases  
+1.1 General intros
 1.1.1 Daily intros  
 1.1.1.1 First time intros  
 1.1.1.1.1 Greetings & Salutations  
@@ -131,7 +167,7 @@
   
 1.b Around the neighborhood  
   
-2 Geography  
+### 2 - Geography  
 2.0.1.1.1 (linking object: "which contains")  
 2.0.1.1.2 (linking object: "contained in")  
 2.0.1.2 Attributes  
@@ -143,58 +179,58 @@
 2.0.1.2.6 Industry [list]  
 2.0.1.2.7 Commerce [list]  
 2.0.1.2.8 Cuisine [list]  
-2.0.1.2.9 Events [list] 
-4.1 Natural  
-5.1.1 North America  
-6.1.2 South America  
-7.1.3 Europe  
-8.1.4 Asia  
-9.1.5 Africa  
-10.1.6 Australia  
-11.1.7 Antarctica  
-12.1.8 Atlantic Ocean  
-13.1.9 Pacific Ocean  
-14.1.a Indian Ocean  
-15.1.b Arctic Ocean  
-16.2 Political  
-17.2.1 USA  
-18.2.1.xx States  
-19.2.1.xx0yy Counties  
-20.2.1.xx[1-f]zz Cities (major)  
-21.f2.1.xxxxx xxxxx = ZIP code of town referenced  
-22.2.2 Canada  
-23.2.51 Japan  
-24.a Lat / Long  
-25.a.1 Latitude  
-26.a.1.1 Degrees  
-27.a.1.2 Minutes  
-28.a.1.3 Seconds  
-29.a.1.4 Hemisphere (1=N,2=S)  
-30.a.2 Longitude  
-31.a.2.1 Degrees  
-32.a.2.2 Minutes  
-33.a.2.3 Seconds  
-34.a.2.4 Hemisphere (1=E,2=W)  
-35.a.3z.z.9.9zz Maidenhead 6-digit grid (using full Latin charset (case insensitive): Bensalem, PA = 02033fn20md)  
-36.b Names of specific places  
-37.b.1 Natural  
-38.b.2 Political  
-39.b.2.1 International  
-40.b.2.2 National  
-41.b.2.3 Regional  
-42.b.2.4 Local  
-43.b.2.4.1 Municipal  
-44.b.2.4.2 Educational  
-45.b.2.4.3 Community  
-46.b.2.4.4 Commercial  
-47.b.2.4.5 Residential  
+2.0.1.2.9 Events [list]  
+2.1 Natural  
+2.1.1 North America  
+2.1.2 South America  
+2.1.3 Europe  
+2.1.4 Asia  
+2.1.5 Africa  
+2.1.6 Australia  
+2.1.7 Antarctica  
+2.1.8 Atlantic Ocean  
+2.1.9 Pacific Ocean  
+2.1.a Indian Ocean  
+2.1.b Arctic Ocean  
+2.2 Political  
+2.2.1 USA  
+2.2.1.f.a States  
+2.2.1.f.b Counties  
+2.2.1.f.c Cities (major)  
+2.2.1.xxxxx xxxxx = ZIP code of town referenced  
+2.2.2 Canada  
+2.2.81 Japan  
+2.3 Lat / Long  
+2.3.1 Latitude  
+2.3.1.1 Degrees  
+2.3.1.2 Minutes  
+2.3.1.3 Seconds  
+2.3.1.4 Hemisphere (1=N,2=S)  
+2.3.2 Longitude  
+2.3.2.1 Degrees  
+2.3.2.2 Minutes  
+2.3.2.3 Seconds  
+2.3.2.4 Hemisphere (1=E,2=W)  
+2.3.3z.z.9.9zz Maidenhead 6-digit grid (using full Latin charset (case insensitive): Bensalem, PA = 02033fn20md)  
+2.4 Names of specific places  
+2.4.1 Natural  
+2.4.2 Political  
+2.4.2.1 International  
+2.4.2.2 National  
+2.4.2.3 Regional  
+2.4.2.4 Local  
+2.4.2.4.1 Municipal  
+2.4.2.4.2 Educational  
+2.4.2.4.3 Community  
+2.4.2.4.4 Commercial  
+2.4.2.4.5 Residential  
   
-3 Jobs  
+### 3 - Jobs  
   
-4 Education  
+### 4 - Education  
 4.fx -ology (the last 8 digits of this code match the first 8 digits of other Teknik categories)  
   
-5 Fine arts  
+### 5 - Fine Arts  
 5.1. Visual arts / Graphics  
 5.1.1. Primitives  
 5.1.1.1. 0D,1D,2D shapes  
@@ -207,9 +243,9 @@
 5.f0. Colors  
 5.f0.0R.R.G.GBB  
   
-6 Musical art  
+### 6 - Musical Art  
   
-7 Literature  
+### 7 - Literature  
 7.1 Concepts  
 7.1.1 Classes  
 7.1.1.1 By Era  
@@ -226,22 +262,19 @@
 7.2.1 In Drama  
 7.2.2 In Narrative  
 7.2.3 In Religious exposition  
-7.ff Literary mechanics   
-7.ff.1 Pre-reading    
-7.ff.2 Publishing / Bookbinding    
   
-8 Earth science  
+### 8 - Earth Science  
   
-9 Biology  
+### 9 - Biology  
   
-a Chemistry  
+### a - Chemistry  
 a.1 Elements  
 a.1.1.1.1 Periodic Table  
 a.1.2 Attributes  
   
-b Physics  
+### b - Physics  
   
-c Mathematics  
+### c - Mathematics  
 c.1 Arithmetic  
 c.1.1 Operations  
 c.1.1.1.1 Addition  
@@ -258,7 +291,7 @@ c.5 Trigonometry
 c.6 Calculus  
 c.7 Algorithms  
   
-d Time  
+### d - Time  
 d.1 Days / Dates  
 d.1.1 Year (A.D.)  
 d.1.2 Year (B.C.)  
@@ -276,14 +309,9 @@ d.2.f Contextual time words
 d.2.f.1 Sun*  
 d.2.f.2 Moon*  
   
-e History  
-e.1 Dynasties
-e.2 Major conflicts
-e.3 Major treaties
-e.4 Significant disasters
-e.5 Inventions
+### e - History  
   
-f Family  
+### f - Family  
 f.1 Male (see f.3 for subtopics)  
 f.2 Female (see f.3 for subtopics)  
 f.3 Generic  
@@ -295,40 +323,37 @@ f.3.3.1 In-law
 f.3.4.1 Foster/adoptive  
 f.3.5.1 General person words  
   
-10 Psychology  
+### 10 - Psychology  
   
-11 Sociology  
+### 11 - Sociology  
   
-12 Criminology  
+### 12 - Criminology  
   
-13 Civics  
+### 13 - Civics  
   
-14 Politics  
+### 14 - Politics  
   
-15 Business  
+### 15 - Business  
   
-16 Religion  
+### 16 - Religion  
   
-17 Language  
+### 17 - Language  
   
-18 Emotions  
+### 18 - Emotions  
   
-19 WIK (who I know -- internal data on users)  
+### 19 - Who I Know (internal data on users)  
 19.1 Fields  
 19.2 Intimate people  
 19.3 Close people  
 19.4 Aquaintances  
 19.5 Famous people  
 19.6 Friends of friends  
-19.7 Historical references  (see category 0e (History) to match people with events)
-19.7.1 World Leaders
+19.7 Historical references  
 19.8 Brief mentions  
   
-1a. Fictional characters  
-1a.1 Characters from Nursery Rhymes
-1a.ff Temporary names used in anecdotes or word problems.
+### 1a - Fictional characters  
   
-1b. Internet / Library / Mass media  
+### 1b - Internet / Library / Mass Media  
 1b.1. WWW  
 1b.1.1. Web site  
 1b.1.1.1. General  
@@ -347,54 +372,9 @@ f.3.5.1 General person words
 1b.84. Magazine  
 1b.ff. General  
   
-1c. Anatomy  
-
-1d. Disease
-
-1e. Physical Health
-
-1f. Mental Health / Psychology / Psychiatry
+### 1c - Anatomy  
   
-7f ***** SERIALIZED IDENTIFIER FOR EACH AI INSTANCE *****  
-  
-80. Teknik tags  
-80.1. Untranslated words  
-80.1.1 Words  
-80.1.2. Proper names  
-80.2. Extended WIK  
-80.2.1. Next word = 7f*; followed by 19* - identifies an entity known to a  
-remote AI but not this one.  
-  
-90 Classification of species  
-** xxxxxxxxx90xxxxxxxxx ITIS.gov Taxonomic Database of species  
-** xxxxxxxxx901xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Bacteria  
-** xxxxxxxxx902xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Protozoa  
-** xxxxxxxxx903xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Plantae  
-** xxxxxxxxx904xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Fungi  
-** xxxxxxxxx905xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Animalia  
-** xxxxxxxxx906xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Chromista  
-** xxxxxxxxx907xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Archaea  
-
-90.50 Based on codes taken from the Taxonomic Serial Number, as registered with ITIS, as maintained by the Smithsonian Institute. Positions 14-20 are a hexadecimal representation of the TSN.  
-91 Domestic pet & livestock breeds  
-91.01 Dog (See AKC)  
-91.01.01 Herding Group  
-91.01.02 Hound Group  
-91.01.03 Toy Group  
-91.01.04 Non-sporting Group  
-91.01.05 Sporting Group  
-91.01.06 Terrier Group  
-91.01.07 Working Group  
-91.01.08 Miscellaneous Group  
-91.01.09 Foundation Stock Service  
-91.02 Cat  
-91.03 Rabbit  
-91.04 Fowl  
-91.05 Horse  
-91.06 Pig  
-91.07 Cattle  
-  
-fd Computer programming scripted functions  
+### fd - Computer Programming Scripted Functions  
 fd.1 Computer control  
 fd.1.1 System awareness  
 fd.1.2 Output commands  
@@ -405,7 +385,7 @@ fd.1.3 Data retrieval commands
 fd.1.4 Networking commands  
 fd.2 Home/office automation  
   
-fe Computer programming primitives (initially via Euphoria)  
+### fe - Computer Programming Primitives (initially via Euphoria)  
 fe.1 Input commands  
 fe.2 Output commands  
 fe.2.1 to screen  
@@ -471,10 +451,11 @@ fe.ff.2 Function saving error
 fe.ff.3 Function calling error  
 fe.ff.>0f Runtime errors  
   
-ff Grammar  
+### ff - Grammar  
 ff.1 Puctuation  
 ff.1.1 Linker  
-ff.1.2 Ender  
+ff.1.2 Ender 
+
 ff.2 Function words  
 ff.2.1 Verbs  
 ff.2.1.1 State of being verbs  
@@ -497,6 +478,7 @@ ff.2.1.5.1 Commerce
 ff.2.1.5.2 Office / Desk  
 ff.2.1.5.3 Industry  
 ff.2.1.5.4 Leadership  
+
 ff.2.2 Pronouns  
 ff.2.2.1 Personal pronouns (I,you,him,our)  
 ff.2.2.2 Demonstrative pronouns (this,that,these,those)  
@@ -505,6 +487,7 @@ ff.2.2.4 Indefinite pronouns (anyone, someone)
 ff.2.2.5 Intensive / Reflexive pronouns (myself)  
 ff.2.2.6 Interrogative (reserved: these are defined in ff.4)  
 ff.2.2.7 Reciprocal (each other, one another)  
+
 ff.2.3 Prepositions  
 ff.2.3.1 Location  
 ff.2.3.1.1 Proximity  
@@ -533,20 +516,24 @@ ff.2.3.5.2 Present
 ff.2.3.5.3 Future  
 ff.2.3.e Grammar markers (particles)  
 ff.2.3.f Other  
+
 ff.2.4 Conjunctions  
 ff.2.4.1 boolean  
 ff.2.4.2 Clause  
 ff.2.4.3 Conditional  
+
 ff.2.5 Adjectives  
 ff.2.5.f Grammatical  
 ff.2.5.f.1 Articles  
 ff.2.5.f.2 Determiners  
 ff.2.5.f.3 Quantifiers  
+
 ff.2.6 Adverbs  
 ff.2.6.1.1 Frequency  
 ff.2.6.1.2 Requests  
 ff.2.6.1.3 Location  
 ff.2.6.1.4 Intensity  
+
 ff.3 Numbers  
 *** Note: with numbers, the def'n holds the decimal value 000 ***  
 ff.3.1 Generic  
@@ -585,5 +572,47 @@ ff.3.47 centuries
 ff.3.48 millenia  
 ff.3.fe Ordinal Numbers (Generic; follows substructure of ff.3.1).
 ff.3.ff Special numbers  
-ff03ff00001 Times square root of negative 1  
+ff03ff00001 Times square root of negative 1 
+
 ff.4 Question types
+
+
+### 7f ***** SERIALIZED IDENTIFIER FOR EACH AI INSTANCE *****  
+
+### 80 - Teknik Tags  
+80.1. Untranslated words  
+80.1.1 Words  
+80.1.2. Proper names  
+80.2. Extended WIK  
+80.2.1. Next word = 7f*; followed by 19* - identifies an entity known to a  
+remote AI but not this one.  
+  
+### 90 - Classification of Species  
+** xxxxxxxxx90xxxxxxxxx ITIS.gov Taxonomic Database of species  
+** xxxxxxxxx901xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Bacteria  
+** xxxxxxxxx902xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Protozoa  
+** xxxxxxxxx903xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Plantae  
+** xxxxxxxxx904xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Fungi  
+** xxxxxxxxx905xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Animalia  
+** xxxxxxxxx906xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Chromista  
+** xxxxxxxxx907xxxxxxxx ITIS.gov Hex representation of taxonomic serial number for Archaea  
+
+90.50 Based on codes taken from the Taxonomic Serial Number, as registered with ITIS, as maintained by the Smithsonian Institute. Positions 14-20 are a hexadecimal representation of the TSN.  
+
+### 91 - Domestic Pet & Livestock Breeds  
+91.01 Dog (See AKC)  
+91.01.01 Herding Group  
+91.01.02 Hound Group  
+91.01.03 Toy Group  
+91.01.04 Non-sporting Group  
+91.01.05 Sporting Group  
+91.01.06 Terrier Group  
+91.01.07 Working Group  
+91.01.08 Miscellaneous Group  
+91.01.09 Foundation Stock Service  
+91.02 Cat  
+91.03 Rabbit  
+91.04 Fowl  
+91.05 Horse  
+91.06 Pig  
+91.07 Cattle 
