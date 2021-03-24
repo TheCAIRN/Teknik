@@ -251,7 +251,6 @@
 4.6.3.1 Student Government
 4.6.4 Programs
 4.6.4.1 Study Abroad
-4.6.4.2 Student Exchange 
   
 ### 5 - Fine Arts  
 5.1. Visual arts / Graphics  
