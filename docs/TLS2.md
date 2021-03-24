@@ -139,51 +139,52 @@
 2.0.1.2.6 Industry [list]  
 2.0.1.2.7 Commerce [list]  
 2.0.1.2.8 Cuisine [list]  
-2.0.1.2.9 Events [list]  
-2.1 Natural  
-2.1.1 North America  
-2.1.2 South America  
-2.1.3 Europe  
-2.1.4 Asia  
-2.1.5 Africa  
-2.1.6 Australia  
-2.1.7 Antarctica  
-2.1.8 Atlantic Ocean  
-2.1.9 Pacific Ocean  
-2.1.a Indian Ocean  
-2.1.b Arctic Ocean  
-2.2 Political  
-2.2.1 USA  
-2.2.1.xx States  
-2.2.1.xx0yy Counties  
-2.2.1.xx[1-f]zz Cities (major)  
-2.f2.1.xxxxx xxxxx = ZIP code of town referenced  
-2.2.2 Canada  
-2.2.51 Japan  
-2.a Lat / Long  
-2.a.1 Latitude  
-2.a.1.1 Degrees  
-2.a.1.2 Minutes  
-2.a.1.3 Seconds  
-2.a.1.4 Hemisphere (1=N,2=S)  
-2.a.2 Longitude  
-2.a.2.1 Degrees  
-2.a.2.2 Minutes  
-2.a.2.3 Seconds  
-2.a.2.4 Hemisphere (1=E,2=W)  
-2.a.3z.z.9.9zz Maidenhead 6-digit grid (using full Latin charset (case insensitive): Bensalem, PA = 02033fn20md)  
-2.b Names of specific places  
-2.b.1 Natural  
-2.b.2 Political  
-2.b.2.1 International  
-2.b.2.2 National  
-2.b.2.3 Regional  
-2.b.2.4 Local  
-2.b.2.4.1 Municipal  
-2.b.2.4.2 Educational  
-2.b.2.4.3 Community  
-2.b.2.4.4 Commercial  
-2.b.2.4.5 Residential  
+2.0.1.2.9 Events [list] 
+2.0.1.2.a Currency 
+4.1 Natural  
+5.1.1 North America  
+6.1.2 South America  
+7.1.3 Europe  
+8.1.4 Asia  
+9.1.5 Africa  
+10.1.6 Australia  
+11.1.7 Antarctica  
+12.1.8 Atlantic Ocean  
+13.1.9 Pacific Ocean  
+14.1.a Indian Ocean  
+15.1.b Arctic Ocean  
+16.2 Political  
+17.2.1 USA  
+18.2.1.xx States  
+19.2.1.xx0yy Counties  
+20.2.1.xx[1-f]zz Cities (major)  
+21.f2.1.xxxxx xxxxx = ZIP code of town referenced  
+22.2.2 Canada  
+23.2.51 Japan  
+24.a Lat / Long  
+25.a.1 Latitude  
+26.a.1.1 Degrees  
+27.a.1.2 Minutes  
+28.a.1.3 Seconds  
+29.a.1.4 Hemisphere (1=N,2=S)  
+30.a.2 Longitude  
+31.a.2.1 Degrees  
+32.a.2.2 Minutes  
+33.a.2.3 Seconds  
+34.a.2.4 Hemisphere (1=E,2=W)  
+35.a.3z.z.9.9zz Maidenhead 6-digit grid (using full Latin charset (case insensitive): Bensalem, PA = 02033fn20md)  
+36.b Names of specific places  
+37.b.1 Natural  
+38.b.2 Political  
+39.b.2.1 International  
+40.b.2.2 National  
+41.b.2.3 Regional  
+42.b.2.4 Local  
+43.b.2.4.1 Municipal  
+44.b.2.4.2 Educational  
+45.b.2.4.3 Community  
+46.b.2.4.4 Commercial  
+47.b.2.4.5 Residential  
   
 3 Jobs  
   
