@@ -61,22 +61,22 @@
 1.2.3 Sports  
 1.2.3.1 Soccer  
 1.2.3.2 Baseball  
-1.2.3.3 Basketball 
-1.2.3.4 Volleyball
-1.2.3.5 Tennis
-1.2.3.6 Golf
-1.2.3.7 Running
-3.2.f Descriptions  
-4.2.f.1 Positive  
-5.2.f.1.1 Opinion / Quality  
-6.2.f.1.2 Size  
-7.2.f.1.3 Age  
-8.2.f.1.4 Shape  
-9.2.f.1.5 Color (see 05.f0 for specific colors)  
-10.2.f.1.6 Origin (see 02.02 for specific countries)  
-11.2.f.1.7 Material  
-12.2.f.1.8 Purpose (these adjectives will usually be included in a bigram noun concept)  
-13.2.f.2 Negative (same subs as 1.2.f.1)  
+1.2.3.3 Basketball
+2.1.2.4 Volleyball  
+1.2.3.5 Tennis  
+1.2.3.6 Golf  
+1.2.3.7 Running 
+7.2.f Descriptions  
+8.2.f.1 Positive  
+9.2.f.1.1 Opinion / Quality  
+10.2.f.1.2 Size  
+11.2.f.1.3 Age  
+12.2.f.1.4 Shape  
+13.2.f.1.5 Color (see 05.f0 for specific colors)  
+14.2.f.1.6 Origin (see 02.02 for specific countries)  
+15.2.f.1.7 Material  
+16.2.f.1.8 Purpose (these adjectives will usually be included in a bigram noun concept)  
+17.2.f.2 Negative (same subs as 1.2.f.1)  
   
 1.3. Stock query  
 1.3.1 System functions  
