@@ -140,7 +140,6 @@
 2.0.1.2.7 Commerce [list]  
 2.0.1.2.8 Cuisine [list]  
 2.0.1.2.9 Events [list] 
-2.0.1.2.a Currency 
 4.1 Natural  
 5.1.1 North America  
 6.1.2 South America  
