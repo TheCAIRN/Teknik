@@ -29,7 +29,7 @@
 #### [1c - Anatomy](#18---anatomy-1) ####
 #### [fd - Computer Programming Scripted Functions](#fd---computer-programming-scripted-functions-1) ####
 #### [fe - Computer Programming Primitives (initially via Euphoria)](#fe---computer-programming-primitives-initially-via-euphoria-1) ####
-#### [ff - Grammar](#ff-grammar-1) ####
+#### [ff - Grammar](#ff---grammar-1) ####
 #### [80 - Teknik Tags](#80---teknik-tags-1) ####
 #### [90 - Classification of Species](#90---classification-of-species-1) ####
 #### [91 - Domestic Pet & Livestock Breeds](#91-domestic-pet--livestock-breeds-1) ####
