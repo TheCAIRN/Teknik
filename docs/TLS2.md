@@ -229,6 +229,29 @@
   
 ### 4 - Education  
 4.fx -ology (the last 8 digits of this code match the first 8 digits of other Teknik categories)  
+4.1 Professions and Careers
+4.2 Levels of Education
+4.2.1 Childhood education
+4.2.2 Primary education
+4.2.3 Lower secondary education
+4.2.4 Upper secondary education
+4.2.5 Post-secondary non-tertiary education
+4.2.6 Tertiary education
+4.2.7 Short-cycle tertiary education
+4.2.8 Bachelor's level
+4.2.9 Master's level
+4.2.a Doctoral level
+4.3 Methods & Techniques
+4.4 Fields of Education
+4.5 Places of Education
+4.6 Students
+4.6.1 Grades 
+4.6.2 Awards
+4.6.3 Clubs & Organizations
+4.6.3.1 Student Government
+4.6.4 Programs
+4.6.4.1 Study Abroad
+4.6.4.2 Student Exchange 
   
 ### 5 - Fine Arts  
 5.1. Visual arts / Graphics  
