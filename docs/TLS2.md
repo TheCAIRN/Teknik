@@ -544,11 +544,20 @@ ff.2.4.1 boolean
 ff.2.4.2 Clause  
 ff.2.4.3 Conditional  
 
-ff.2.5 Adjectives  
+ff.2.5 Adjectives
+ff.2.5.d Common
+ff.2.5.d.1 Indefinite
+ff.2.5.d.2 Predicate
+ff.2.5.d.3 Interrogative
+ff.2.5.d.4 Descriptive
+ff.2.5.d.5 Possessive
+ff.2.5.d.6 Compound
+ff.2.5.e Proper 
 ff.2.5.f Grammatical  
 ff.2.5.f.1 Articles  
 ff.2.5.f.2 Determiners  
-ff.2.5.f.3 Quantifiers  
+ff.2.5.f.3 Quantifiers
+
 
 ff.2.6 Adverbs  
 ff.2.6.1.1 Frequency  
