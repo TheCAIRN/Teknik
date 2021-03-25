@@ -545,7 +545,6 @@ ff.2.4.2 Clause
 ff.2.4.3 Conditional  
 
 ff.2.5 Adjectives
-ff.2.5.d Common
 ff.2.5.e Proper 
 ff.2.5.f Grammatical  
 ff.2.5.f.1 Articles  
