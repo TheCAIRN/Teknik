@@ -550,13 +550,13 @@ ff.2.5.f Grammatical
 ff.2.5.f.1 Articles  
 ff.2.5.f.2 Determiners  
 ff.2.5.f.3 Quantifiers
-ff.2.5.f.1 Indefinite
-ff.2.5.f.2 Predicate
-ff.2.5.f.3 Interrogative
-ff.2.5.f.4 Descriptive
-ff.2.5.f.5 Possessive
-ff.2.5.f.6 Compound
-ff.2.5.f.7 Distributive
+ff.2.5.f.4 Indefinite
+ff.2.5.f.5 Predicate
+ff.2.5.f.6 Interrogative
+ff.2.5.f.7 Descriptive
+ff.2.5.f.8 Possessive
+ff.2.5.f.9 Compound
+ff.2.5.f.a Distributive
 
 
 ff.2.6 Adverbs  
