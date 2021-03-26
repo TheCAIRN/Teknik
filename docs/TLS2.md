@@ -540,9 +540,9 @@ ff.2.3.e Grammar markers (particles)
 ff.2.3.f Other  
 
 ff.2.4 Conjunctions  
-ff.2.4.1 boolean  
-ff.2.4.2 Clause  
-ff.2.4.3 Conditional  
+ff.2.4.1 Coordinating  
+ff.2.4.2 Subordinating  
+ff.2.4.3 Correlative  
 
 ff.2.5 Adjectives
 ff.2.5.e Proper 
