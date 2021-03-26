@@ -23,7 +23,7 @@
 #### [16 - Religion](#16---religion-1) ####
 #### [17 - Language](#17---language-1) ####
 #### [18 - Emotions](#18---emotions-1) ####
-#### [19 - Who I Know](#19---who-i-know-1) ####
+#### [19 - Who I Know (internal data on users)](#19---who-i-know-internal-data-on-users) ####
 #### [1a - Fictional Characters](#1a---fictional-characters-1) ####
 #### [1b - Internet / Library / Mass Media](#1b-internet--library--mass-media-1) ####
 #### [1c - Anatomy](#18---anatomy-1) ####
