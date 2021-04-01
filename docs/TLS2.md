@@ -167,6 +167,10 @@
 1.a Shelter  
   
 1.b Around the neighborhood  
+1.b.1 Buildings 
+1.b.2 Attractions
+1.b.2.1 Local
+1.b.2.2 National
   
 ### 2 - Geography  
 2.0.1.1.1 (linking object: "which contains")  
