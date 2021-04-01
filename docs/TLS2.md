@@ -359,7 +359,29 @@ f.3.5.1 General person words
   
 ### 14 - Politics  
   
-### 15 - Business  
+### 15 - Business (Based on the NAICS Code System)
+** positions 13-17 are for the hexadecimal representation of the NAICS Code (list found [here](https://www.naics.com/search/)).
+** Grocery would be 445110 (or 6cab6 in hexadecimal)
+15.11 Agriculture, Forestry, Fishing and Hunting
+15.21 Mining
+15.22 Utilities
+15.23 Construction
+15.31-33 Construction
+15.42 Wholesale Trade
+15.44-45 Retail Trade
+17.48-49 Transportation and Warehousing
+18.51 Information
+19.52 Finance and Insurance
+20.53 Real Estate
+21.54 Professional, Scientific, and Technical Services
+22.55 Management of Companies and Enterprises
+23.56 Administrative and Support and Waste Management and Remediation Services
+24.61 Educational Services
+25.62 Health Care and Social Assistance
+26.71 Arts, Entertainment, and Recreation
+27.72 Accommodation and Food Services
+28.81 Other Services (except Public Administration)
+29.92 Public Administration
   
 ### 16 - Religion  
   
