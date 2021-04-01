@@ -19,8 +19,8 @@
 #### [12 - Criminology](#12---criminology-1) ####
 #### [13 - Civics](#13---civics-1) ####
 #### [14 - Politics](#14---politics-1) ####
-#### [15 - Business](#15---business-based-on-the-naics-code-system) ####
-#### [16 - Religion](#16---religion-1) ####
+#### [15 - Business](#15---business-based-on-the-naics-code-system-1) ####
+#### [16 - Religion](#16---based-on-the-nlsy79-religion-Codes-1) ####
 #### [17 - Language](#17---language-1) ####
 #### [18 - Emotions](#18---emotions-1) ####
 #### [19 - Who I Know (internal data on users)](#19---who-i-know-internal-data-on-users-1) ####
@@ -385,8 +385,14 @@ f.3.5.1 General person words
 15.2 Universal Business Terms 
 15.3 Business Problems
  
-### 16 - Religion  
-  
+### 16 - Religion (Based on the NLSY79 Religion Codes)
+** List found [here](https://www.nlsinfo.org/content/cohorts/nlsy79/other-documentation/codebook-supplement/nlsy79-attachment-103-religion-codes#religion)
+16.0 None
+16.1 Protestant, etc
+16.2 Baptist
+16.3 Episcopalian
+
+
 ### 17 - Language  
   
 ### 18 - Emotions  
