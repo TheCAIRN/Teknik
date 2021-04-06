@@ -198,6 +198,8 @@
   
 1.b Around the neighborhood  
 1.b.1 Buildings 
+1.b.1.1 House
+1.b.1.2 Apartments
 1.b.2 Attractions
 1.b.2.1 Local
 1.b.2.2 National
