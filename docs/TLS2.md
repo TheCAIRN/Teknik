@@ -303,10 +303,6 @@
 5.1.1.4. Materials  
 5.2. Theater  
 5.3. Film  
-5.3.1 Types
-5.3.1.1 Shorts
-5.3.1.2 Live-Action
-5.3.2 Videos
 5.4. Radio drama  
 5.f0. Colors  
 5.f0.0R.R.G.GBB  
@@ -460,7 +456,10 @@ f.3.5.1 General person words
 1b.1.1.4. Microsoft  
 1b.2 Internet protocols  
 1b.3 L33T  
-1b.4 Computer programming jargon  
+1b.4 Computer programming jargon
+1b.5 Technology
+1b.5.1 Streaming
+1b.5.1.1 Videos
 1b.40 Public library  
 1b.41. Private library  
 1b.80. TV Mass Media  
