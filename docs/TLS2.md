@@ -193,6 +193,9 @@
 1.9.5.3 Headgear
 1.9.5.4 Jewellry
 1.9.5.5 Wearable devices
+1.9.5.6 Bags
+1.9.5.6.1 Handbag
+1.9.5.6.2 Wallet
 
 1.a Shelter  
 1.a.1 Types
