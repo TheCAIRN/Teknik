@@ -25,7 +25,7 @@
 #### [18 - Emotions](#18---emotions-1) ####
 #### [19 - Who I Know (internal data on users)](#19---who-i-know-internal-data-on-users-1) ####
 #### [1a - Fictional Characters](#1a---fictional-characters-1) ####
-#### [1b - Internet / Library / Mass Media](#1b-internet--library--mass-media-1) ####
+#### [1b - Internet / Library / Mass Media](#1b---internet--library--mass-media-1) ####
 #### [1c - Anatomy](#1c---anatomy-1) ####
 #### [1d - Travel](#1d---travel-1) ####
 #### [fd - Computer Programming Scripted Functions](#fd---computer-programming-scripted-functions-1) ####
