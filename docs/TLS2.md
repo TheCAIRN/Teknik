@@ -195,11 +195,12 @@
 1.9.5.5 Wearable devices
 
 1.a Shelter  
-  
+1.a.1 Types
+1.a.1.1 House
+1.a.1.1.1 Rooms 
+ 
 1.b Around the neighborhood  
 1.b.1 Buildings 
-1.b.1.1 House
-1.b.1.2 Apartments
 1.b.2 Attractions
 1.b.2.1 Local
 1.b.2.2 National
