@@ -154,7 +154,14 @@
 1.8.b Spices  
 1.8.c Breads  
 1.8.c.1 Sandwiches
+1.8.c.2 Flatbreads
+1.8.c.3 Sweetbreads
+1.8.c.3.1 Muffins
 1.8.d Dessert  
+1.8.d.1 Cupcakes
+1.8.d.2 Cakes
+1.8.d.3 Icecream
+1.8.d.4 Cookies
 1.8.e Common Verbs  
 1.8.e.8.1 Food acquisition  
 1.8.e.8.2 Food processing  
