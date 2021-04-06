@@ -149,9 +149,11 @@
 1.8.4 Seafood  
 1.8.5 Poultry  
 1.8.6 Butchery  
+1.8.7 Fast Food
 1.8.a Sauces and condiments  
 1.8.b Spices  
-1.8.c Bakery  
+1.8.c Breads  
+1.8.c.1 Sandwiches
 1.8.d Dessert  
 1.8.e Common Verbs  
 1.8.e.8.1 Food acquisition  
