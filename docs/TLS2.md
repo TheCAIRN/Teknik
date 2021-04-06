@@ -392,7 +392,6 @@ f.3.5.1 General person words
 16.2 Baptist
 16.3 Episcopalian
 
-
 ### 17 - Language  
   
 ### 18 - Emotions  
@@ -429,7 +428,26 @@ f.3.5.1 General person words
 1b.ff. General  
   
 ### 1c - Anatomy  
-  
+
+### 1d - Travel
+1d.1 Transportation
+1d.1.1 Planes
+1d.1.2 Buses
+1d.1.3 Bicycles
+1d.1.4 Cars
+1d.1.5 Motorcycles
+1d.1.6 Boats
+1d.1.7 Motorboats
+1d.1.8 Sailboats
+1d.2 Documents
+1d.3 Organizations
+1d.4 Tourism
+1d.5 Types
+1d.5.1 Cruises
+1d.5.2 Business
+1d.5.3 Diplomatic Visits
+1d.5.4 Interstellar
+
 ### fd - Computer Programming Scripted Functions  
 fd.1 Computer control  
 fd.1.1 System awareness  
