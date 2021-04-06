@@ -178,7 +178,22 @@
 1.8.f.2 Tools  
   
 1.9 Clothing  
-  
+1.9.1 Types
+1.9.1.1 Dresses
+1.9.1.2 Jackets
+1.9.1.3 Activewear
+1.9.1.4 Royal attire
+1.9.1.5 Outerwear
+1.9.2 Costumes
+1.9.3 Industry
+1.9.4 Ethnicity
+1.9.5 Accessories
+1.9.5.1 Eyewear
+1.9.5.2 Gloves
+1.9.5.3 Headgear
+1.9.5.4 Jewellry
+1.9.5.5 Wearable devices
+
 1.a Shelter  
   
 1.b Around the neighborhood  
@@ -186,6 +201,7 @@
 1.b.2 Attractions
 1.b.2.1 Local
 1.b.2.2 National
+1.b.3 Directions
   
 ### 2 - Geography  
 2.0.1.1.1 (linking object: "which contains")  
