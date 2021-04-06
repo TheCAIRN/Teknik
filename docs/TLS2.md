@@ -149,7 +149,11 @@
 1.8.4 Seafood  
 1.8.5 Poultry  
 1.8.6 Butchery  
-1.8.7 Fast Food
+1.8.7 Convenience Food
+1.8.7.1 Snacks
+1.8.7.2 Fast Food
+1.8.7.3 Instant Food
+1.8.7.4 Street Food
 1.8.a Sauces and condiments  
 1.8.b Spices  
 1.8.c Breads  
