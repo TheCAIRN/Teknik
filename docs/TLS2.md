@@ -162,6 +162,7 @@
 1.8.d.2 Cakes
 1.8.d.3 Icecream
 1.8.d.4 Cookies
+1.8.d.5 Candy
 1.8.e Common Verbs  
 1.8.e.8.1 Food acquisition  
 1.8.e.8.2 Food processing  
