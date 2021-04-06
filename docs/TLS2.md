@@ -196,6 +196,7 @@
 1.9.5.6 Bags
 1.9.5.6.1 Handbag
 1.9.5.6.2 Wallet
+1.9.5.6.3 Backpack
 
 1.a Shelter  
 1.a.1 Types
