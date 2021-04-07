@@ -92,11 +92,7 @@
 1.2.2.3 Theatre (Plays)  
 1.2.2.4 Theatre (Musicals)  
 1.2.2.5 TV  
-1.2.2.6 Ballet  
-1.2.2.7 Folk Dance  
-1.2.2.8 Nightclub dancing  
-1.2.2.9 Alcohol
-
+ 
 1.2.3 Sports  
 1.2.3.1 Soccer  
 1.2.3.2 Baseball  
@@ -113,13 +109,18 @@
 1.2.4.4 Gifts
 1.2.4.5 Etiquette
 1.2.4.6 Decorations
+1.2.4.7 Alcohol
+
 
 1.2.5 Clubs & Societies
 1.2.5.1 Types
 1.2.5.1.1 Sports Clubs
 1.2.5.1.2 Book Clubs
 1.2.5.1.3 Rotary Club
-1.2.5.2 Members
+1.2.5.1.4 Nightclubs
+1.2.5.1.4.1 Nightclub dancing  
+
+3.2.5.2 Members
 
 1.2.6 Dance
 1.2.6.1 Types
