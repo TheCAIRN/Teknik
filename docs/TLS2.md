@@ -110,6 +110,8 @@
 1.2.4.1 Dress Code
 1.2.4.2 Guests
 1.2.4.3 Invitations
+1.2.4.4 Gifts
+1.2.4.5 Etiquette
 
 1.2.5 Clubs & Societies
 1.2.5.1 Types
