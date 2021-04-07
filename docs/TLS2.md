@@ -95,7 +95,8 @@
 1.2.2.6 Ballet  
 1.2.2.7 Folk Dance  
 1.2.2.8 Nightclub dancing  
-1.2.2.9 Alcohol  
+1.2.2.9 Alcohol
+
 1.2.3 Sports  
 1.2.3.1 Soccer  
 1.2.3.2 Baseball  
@@ -104,10 +105,24 @@
 1.2.3.5 Tennis  
 1.2.3.6 Golf  
 1.2.3.7 Running 
+
 1.2.4 Party
 1.2.4.1 Dress Code
 1.2.4.2 Guests
 1.2.4.3 Invitations
+
+1.2.5 Clubs & Societies
+1.2.5.1 Types
+1.2.5.1.1 Sports Clubs
+1.2.5.1.2 Book Clubs
+1.2.5.1.3 Rotary Club
+1.2.5.2 Members
+
+1.2.6 Dance
+1.2.6.1 Types
+1.2.6.1.1 Ballet
+1.2.6.1.2 Folk Dance
+
 1.2.f Descriptions  
 1.2.f.1 Positive  
 1.2.f.1.1 Opinion / Quality  
@@ -295,6 +310,7 @@
 4.5.2 Awards
 4.5.3 Clubs & Organizations
 4.5.3.1 Student Government
+4.5.3.2 Sorority / Fraternity
 4.5.4 Programs
 4.5.4.1 Study Abroad
   
