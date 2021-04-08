@@ -119,8 +119,7 @@
 1.2.5.1.3 Rotary Club
 1.2.5.1.4 Nightclubs
 1.2.5.1.4.1 Nightclub dancing  
-
-3.2.5.2 Members
+1.2.5.2 Members
 
 1.2.6 Dance
 1.2.6.1 Types
