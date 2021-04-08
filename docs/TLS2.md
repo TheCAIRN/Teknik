@@ -687,6 +687,7 @@ ff.2.6.1.8 Conjunctions
 ff.2.6.1.9 Relative
 ff.2.6.1.a Reason/Purpose
 ff.2.6.1.b Attitude/Comment
+ff.2.6.1.c Number
 
 ff.3 Numbers  
 *** Note: with numbers, the def'n holds the decimal value 000 ***  
