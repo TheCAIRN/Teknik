@@ -224,7 +224,8 @@
 1.a.1 Types
 1.a.1.1 House
 1.a.1.1.1 Rooms 
- 
+1.a.1.2 Furniture 
+
 1.b Around the neighborhood  
 1.b.1 Buildings 
 1.b.2 Attractions
