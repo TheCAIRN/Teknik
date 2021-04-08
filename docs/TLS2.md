@@ -677,10 +677,10 @@ ff.2.5.f.a Distributive
 
 
 ff.2.6 Adverbs  
-ff.2.6.1.1 Time  
+ff.2.6.1.1 Frequency  
 ff.2.6.1.2 Requests  
 ff.2.6.1.3 Place  
-ff.2.6.1.4 Frequency
+ff.2.6.1.4 Time
 ff.2.6.1.5 Degree
 ff.2.6.1.6 Manner
 ff.2.6.1.7 Affirmation/Negation
