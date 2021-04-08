@@ -512,6 +512,7 @@ f.3.5.1 General person words
 1d.5.2 Business
 1d.5.3 Diplomatic Visits
 1d.5.4 Interstellar
+1d.6 Directions
 
 ### fd - Computer Programming Scripted Functions  
 fd.1 Computer control  
