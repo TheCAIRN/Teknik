@@ -28,6 +28,7 @@
 #### [1b - Internet / Library / Mass Media](#1b---internet--library--mass-media-1) ####
 #### [1c - Anatomy](#1c---anatomy-1) ####
 #### [1d - Travel](#1d---travel-1) ####
+#### [1e - Ethics](#1e---ethics-1) ####
 #### [fd - Computer Programming Scripted Functions](#fd---computer-programming-scripted-functions-1) ####
 #### [fe - Computer Programming Primitives (initially via Euphoria)](#fe---computer-programming-primitives-initially-via-euphoria-1) ####
 #### [ff - Grammar](#ff---grammar-1) ####
@@ -668,6 +669,24 @@ f.3.5.1 General person words
 1d.5.3 Diplomatic Visits
 1d.5.4 Interstellar
 1d.6 Directions
+
+### 1e - Ethics
+1e.1 Issues
+1e.2 Concepts
+1e.2.1 Authority
+1e.2.2 Human Rights
+1e.2.3 Morality
+1e.2.4 Value
+1e.2.5 Virtue
+1e.2.6 Courage
+1e.2.7 Etiquette
+1e.2.8 Giving
+1e.2.9 Honor
+1e.2.a Kindness
+1e.2.b Modesty
+1e.2.c Wisdom
+1e.3 Principles
+1e.4 Theories
 
 ### fd - Computer Programming Scripted Functions  
 fd.1 Computer control  
