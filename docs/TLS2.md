@@ -903,7 +903,72 @@ ff.3.48 millenia
 ff.3.49 kilometers
 ff.3.50 inches
 
-ff.3.fe Ordinal Numbers (Generic; follows substructure of ff.3.1).
+ff.3.fe Measure Words/Units of Measure
+ff.3.fe.1 Imperial Units
+ff.3.fe.1.1 Inch
+ff.3.fe.1.2 Foot
+ff.3.fe.1.3 Mile
+ff.3.fe.1.4 Fahrenheit
+ff.3.fe.1.5 Pound
+ff.3.fe.1.6 Quart
+
+ff.3.fe.2 International System of Units (SI Units) 
+ff.3.fe.2.1 Kilogram
+ff.3.fe.2.2 Meter
+ff.3.fe.2.3 Ohm
+ff.3.fe.2.4 Watt
+ff.3.fe.2.5 Kelvin
+
+ff.3.fe.3 Units of Area
+ff.3.fe.3.1 Square Foot
+ff.3.fe.3.2 Square Kilometer
+ff.3.fe.3.3 Square Meter
+ff.3.fe.3.4 Square Mile
+ff.3.fe.3.5 Square Yard
+ff.3.fe.3.6 Acre
+ff.3.fe.3.7 Hectare
+
+ff.3.fe.4 Units of Length
+ff.3.fe.4.1 Fathom
+ff.3.fe.4.2 Furlong
+ff.3.fe.4.3 Hand
+ff.3.fe.4.4 Light Year
+ff.3.fe.4.5 Light Second
+
+ff.3.fe.5 Units of Mass
+ff.3.fe.5.1 Ounce
+ff.3.fe.5.2 Stone
+ff.3.fe.5.3 Metric Ton
+ff.3.fe.6 Units of Power
+ff.3.fe.6.1 Horsepower
+ff.3.fe.7 Units of Temperature
+ff.3.fe.7.1 Celsius
+
+ff.3.fe.8 Units of Time
+ff.3.fe.8.1 Century
+ff.3.fe.8.2 Day
+ff.3.fe.8.3 Decade
+ff.3.fe.8.4 Eon
+ff.3.fe.8.5 Era
+ff.3.fe.8.6 Fortnight
+ff.3.fe.8.7 Minute
+ff.3.fe.8.8 Month
+ff.3.fe.8.9 Season
+ff.3.fe.8.a Second
+ff.3.fe.8.b Week
+ff.3.fe.8.c Weekend
+ff.3.fe.8.d Year
+
+ff.3.fe.9 Units of Volume
+ff.3.fe.9.1 Bushel
+ff.3.fe.9.2 Fluid Ounce
+ff.3.fe.9.3 Gallon
+ff.3.fe.9.4 Liter
+
+ff.3.fe.a General Measure Words
+ff.3.fe.a.1 Block
+ff.3.fe.a.2 Piece
+
 ff.3.ff Special numbers  
 ff03ff00001 Times square root of negative 1 
 ff.4 Question types
