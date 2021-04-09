@@ -412,18 +412,123 @@ f.3.4.1 Foster/adoptive
 f.3.5.1 General person words  
   
 ### 10 - Psychology  
-  
+10.1 Branches 
+10.1.1 Abnormal
+10.1.2 Criminal
+10.1.3 Social
+10.2 Psychiatry
+10.3 Mental States
+10.4 Sexual Orientation
+10.5 Theories
+10.6 Testing
+10.6.1 Achievement
+10.6.2 Intelligence
+10.6.3 Cognitive
+10.6.4 Personality
+10.7 Concepts
+10.7.1 Behavior
+10.7.1.1 Communication
+10.7.1.3 Sleep
+10.7.2 Consciousness
+10.7.3 Perception
+10.7.4 Problem Solving
+10.7.5 Stress
+10.7.6 Thought
+10.7.7 Unconscious
+10.8 Disorders
+10.8.1 Eating
+10.8.1.1 Anorexia Nervosa
+10.8.1.2 Bulimia Nervosa
+10.8.1.3 Recovery
+
 ### 11 - Sociology  
-  
+11.1 Disciplines 
+11.1.1 Economic
+11.1.2 Knowledge
+11.1.3 Language
+11.1.4 Political
+11.1.5 Science
+11.1.6 Art
+11.1.7 Urban
+11.2 Terminology
+11.2.1 Ableism
+11.2.2 Appropriation
+11.2.3 Class Society
+11.2.4 Dehumanization
+11.2.5 Economic 
+11.2.6 Heterosociality
+11.2.7 Homosociality
+11.2.8 Identity
+11.2.9 Power
+11.3 Theories
+11.3.1 Functionalism
+11.3.2 Individualism
+11.3.3 Marxism
+
 ### 12 - Criminology  
-  
+12.1 Criminal Justice   
+12.2 Juvenile Delinquency
+12.3 Vigilantism
+12.4 Wrongful Convictions
+12.5 Whistleblowing
+12.6 Escape
+12.7 Illegal Occupations
+12.8 Crime Prevention
+12.9 Civil Disobedience, Riots & Protests
+12.a Forensics
+
 ### 13 - Civics  
-  
+13.1 Anti-Corruption
+13.1.1 Measures
+13.2 Global Citizenship
+13.3 Community
+
 ### 14 - Politics  
-  
+14.1  Communication
+14.1.1 Political Campaigns
+14.1.2 Debates
+14.1.3 Propaganda 
+14.1.4 Satire 
+14.2 Controversies 
+14.2.1 Abortion Debate
+14.2.2 Election
+14.2.3 Scandals 
+14.2.4 International Disputes 
+14.3 Theories
+14.3.1 Egalitarianism
+14.3.2 Federalism
+14.3.3 Individualism
+14.3.4 Militarism
+14.3.5 Nationalism
+14.3.6 Neo-Sovietism
+14.3.7 Pacifism
+14.3.8 Populism
+14.3.9 Radicalism
+14.3.a Utilitarianism 
+14.4 Events 
+14.4.1 Conspiracies
+14.4.2 Protests
+14.4.3 Riots
+14.5 Violence
+14.5.1 Far-Right Terrorism
+14.5.2 Islamic Terrorism
+14.5.3 War
+14.5.4 Attacks
+14.6 Reform
+14.6.1 Health Care
+14.6.2 Education
+14.6.3 Economic
+14.6.4 Law
+14.7 Organizations
+14.7.1 Advocacy Groups
+14.7.2 Party Alliances
+14.7.3 Insurgent Groups
+14.7.4 Lobbying
+14.7.5 Secret Societies
+
 ### 15 - Business (Based on the NAICS Code System)
 ** (List found [here](https://www.naics.com/search/)).
-15.1 Types of Businesses (each category under this will be identified using the hexadecimal representation of the NAICS code)
+15.1 Types of Businesses (each word under each category will be identified using the hexadecimal representation of the NAICS code)
 15.1.11 Agriculture, Forestry, Fishing and Hunting
 15.1.21 Mining
 15.1.22 Utilities
@@ -449,15 +554,65 @@ f.3.5.1 General person words
  
 ### 16 - Religion (Based on the NLSY79 Religion Codes)
 ** List found [here](https://www.nlsinfo.org/content/cohorts/nlsy79/other-documentation/codebook-supplement/nlsy79-attachment-103-religion-codes#religion)
-16.0 None
-16.1 Protestant, etc
-16.2 Baptist
-16.3 Episcopalian
+** Each word under each category will be identified using the hexadecimal representation of the Religion Code
+16.1 Types
+16.1.1 Protestant, etc (Denomination codes will also be represented with their corresponding hex numbers)
+16.1.1.50 First Reformed (this would be 16010132000)
+16.1.1.70 Quaker
+16.1.1.83 Wesleyan
+16.1.2 Baptist
+16.1.109 Muslim (this would be 16016d00000)
+16.2 Terminology
+16.2.1 Blasphemy
+16.2.2 Clergy
+16.2.3 Creed
+16.2.4 Demon
+16.2.5 Divine Providence
+16.2.6 Orthodoxy
+16.2.7 Prayer
+16.2.8 Repentance
+16.2.9 Sanctification
+16.2.a Sin
+16.2.b Tithe
 
-### 17 - Language  
-  
+### 17 - Language    
+** Should we use the list from Teknik/src/sql or the list of official languages from wikipedia?
+17.1 Official
+17.1.1 Afar
+17.1.2 Afrikaans
+17.1.3 Aja-Gbe
+17.1.4 Akan
+17.1.5 Albanian
+
 ### 18 - Emotions  
-  
+18.1 Anxiety
+18.2 Depression
+18.3 Doubt
+18.4 Empathy
+18.5 Fear
+18.6 Grief
+18.7 Guilt
+18.8 Happiness
+18.9 Jealousy
+18.a Love
+18.b Pride
+18.c Romance
+18.c.1 Dating
+18.c.2 Terms of Endearment
+18.c.3 Relationship Issues
+18.c.3.1 Commitment
+18.c.3.2 Physical
+18.c.3.3 Communication
+18.c.3.4 Trust
+18.c.3.5 Cheating
+18.c.3.6 Money
+18.c.3.7 Chores
+18.c.3.8 Children
+18.c.4 Engagement
+18.c.5 Marriage
+18.c.6 Divorce
+18.d Suffering
+
 ### 19 - Who I Know (internal data on users)  
 19.1 Fields  
 19.2 Intimate people  
