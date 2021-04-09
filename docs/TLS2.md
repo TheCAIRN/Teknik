@@ -112,7 +112,6 @@
 1.2.4.6 Decorations
 1.2.4.7 Alcohol
 
-
 1.2.5 Clubs & Societies
 1.2.5.1 Types
 1.2.5.1.1 Sports Clubs
@@ -329,6 +328,10 @@
 5.2. Theater  
 5.3. Film  
 5.4. Radio drama  
+5.5 Photography
+5.5.1 Pictures
+5.5.2 Techniques
+5.5.3 Editing
 5.f0. Colors  
 5.f0.0R.R.G.GBB  
   
