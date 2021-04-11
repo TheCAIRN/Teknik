@@ -19,7 +19,7 @@
 #### [12 - Criminology](#12---criminology-1) ####
 #### [13 - Civics](#13---civics-1) ####
 #### [14 - Politics](#14---politics-1) ####
-#### [15 - Business](#15---business-based-on-the-naics-code-system) ####
+#### [15 - Business](#15---business-1) ####
 #### [16 - Religion](#16---based-on-the-nlsy79-religion-Codes-1) ####
 #### [17 - Language](#17---language-1) ####
 #### [18 - Emotions](#18---emotions-1) ####
@@ -530,31 +530,13 @@ f.3.5.1 General person words
 14.7.4 Lobbying
 14.7.5 Secret Societies
 
-### 15 - Business (Based on the NAICS Code System)
-** (List found [here](https://www.naics.com/search/)).
-15.1 Types of Businesses (each word under each category will be identified using the hexadecimal representation of the NAICS code)
-15.1.11 Agriculture, Forestry, Fishing and Hunting
-15.1.21 Mining
-15.1.22 Utilities
-15.1.23 Construction
-15.1.31-33 Construction
-15.1.42 Wholesale Trade
-15.1.44-45 Retail Trade
-15.1.48-49 Transportation and Warehousing
-15.1.51 Information
-15.1.52 Finance and Insurance
-15.1.53 Real Estate
-15.1.54 Professional, Scientific, and Technical Services
-15.1.55 Management of Companies and Enterprises
-15.1.56 Administrative and Support and Waste Management and Remediation Services
-15.1.61 Educational Services
-15.1.62 Health Care and Social Assistance
-15.1.71 Arts, Entertainment, and Recreation
-15.1.72 Accommodation and Food Services
-15.1.81 Other Services (except Public Administration)
-15.1.92 Public Administration
-15.2 Universal Business Terms 
-15.3 Business Problems
+### 15 - Business
+15.0 Classification of Industries
+** positions 14-18 will be the hexadecimal representation of the NAICS code of that industry ((List found [here](https://www.naics.com/search/)).) 
+** positions 19-20 will be words or concepts related to that industry
+** Example: Grocery Store is under the category of supermarkets and has the NAICS code of 445110. The Teknik code therefore would be 1506cab6000. Any concepts related to groccery stores would be under that. 
+15.1 Universal Business Terms 
+15.2 Business Problems
  
 ### 16 - Religion (Based on the NLSY79 Religion Codes)
 ** List found [here](https://www.nlsinfo.org/content/cohorts/nlsy79/other-documentation/codebook-supplement/nlsy79-attachment-103-religion-codes#religion)
