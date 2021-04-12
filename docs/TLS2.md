@@ -610,7 +610,32 @@ f.3.5.1 General person words
 19.8 Brief mentions  
   
 ### 1a - Fictional characters  
-  
+1a.1 Human Characters
+1a.2 Non-Human Characters
+1a.2.1 Extraterresital
+1a.2.2 Supernatural
+1a.2.2.1 Demons
+1a.2.2.2 Monsters
+1a.2.3 Animals
+1a.2.3.1 Birds
+1a.2.3.2 Primates
+1a.2.3.2 Reptiles & Amphibians
+1a.2.3.3 Pigs
+1a.2.3.4 Rodents
+1a.2.3.4.1 Algernon
+1a.2.3.4.2 Reepicheep
+1a.2.3.4.3 Templeton
+1a.2.3.5 Horses
+1a.2.4 Fantasy
+1a.2.4.1 Fairies
+1a.2.4.2 Elves
+1a.2.4.3 Goblins
+1a.2.4.4 Elves
+1a.2.4.5 Trolls
+1a.2.4.6 Dwarves
+1a.2.4.7 Giants
+1a.2.4.8 Mermaids
+
 ### 1b - Internet / Library / Mass Media  
 1b.1. WWW  
 1b.1.1. Web site  
@@ -634,6 +659,29 @@ f.3.5.1 General person words
 1b.ff. General  
   
 ### 1c - Anatomy  
+** NCBI.NLM.NIH.GOV Database of Medical Subject Headings found [here](https://www.ncbi.nlm.nih.gov/mesh/)
+** Use the MeSH Unique ID without the 'D' Descriptor Character (example: D001829 would be 001829 -> 000725 in Hex)
+** xxxxxxxxx1c000339xxx Hex representation of the MeSH Unique ID for Animal Structures
+** xxxxxxxxx1c000725xxx Hex representation of the MeSH Unique ID for Body Regions
+** xxxxxxxxx1c00090fxxx Hex representation of the MeSH Unique ID for Cardiovascular System
+** xxxxxxxxx1c0009adxxx Hex representation of the MeSH Unique ID for Cells
+** xxxxxxxxx1c000fe0xxx Hex representation of the MeSH Unique ID for Digestive System
+** xxxxxxxxx1c001214xxx Hex representation of the MeSH Unique ID for Embryonic Structures
+** xxxxxxxxx1c00125fxxx Hex representation of the MeSH Unique ID for Endocrine System
+** xxxxxxxxx1c001541xxx Hex representation of the MeSH Unique ID for Fluids & Secretions
+** xxxxxxxxx1c001918xxx Hex representation of the MeSH Unique ID for Hemic & Immune System
+** xxxxxxxxx1c0024ccxxx Hex representation of the MeSH Unique ID for Nervous System
+** xxxxxxxxx1c002f69xxx Hex representation of the MeSH Unique ID for Respiratory System
+** xxxxxxxxx1c003187xxx Hex representation of the MeSH Unique ID for Sense Organs
+** xxxxxxxxx1c0033e4xxx Hex representation of the MeSH Unique ID for Stomatognathic System
+** xxxxxxxxx1c0036c8xxx Hex representation of the MeSH Unique ID for Tissues
+** xxxxxxxxx1c0038e6xxx Hex representation of the MeSH Unique ID for Urogenital System
+** xxxxxxxxx1c004852xxx Hex representation of the MeSH Unique ID for Plant Structures
+** xxxxxxxxx1c008716xxx Hex representation of the MeSH Unique ID for Integumentary System
+** xxxxxxxxx1c009141xxx Hex representation of the MeSH Unique ID for Musculoskeleton System
+** xxxxxxxxx1c00dba0xxx Hex representation of the MeSH Unique ID for Viral Structures
+** xxxxxxxxx1c00dba2xxx Hex representation of the MeSH Unique ID for Bacterial Structures
+** xxxxxxxxx1c00dba5xxx Hex representation of the MeSH Unique ID for Fungal Structures
 
 ### 1d - Travel
 1d.1 Transportation
