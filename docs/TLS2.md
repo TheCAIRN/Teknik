@@ -29,6 +29,7 @@
 #### [1c - Anatomy](#1c---anatomy-1) ####
 #### [1d - Travel](#1d---travel-1) ####
 #### [1e - Ethics](#1e---ethics-1) ####
+#### [1f - Environmental Science](#1f---environmental-science-1) ####
 #### [fd - Computer Programming Scripted Functions](#fd---computer-programming-scripted-functions-1) ####
 #### [fe - Computer Programming Primitives (initially via Euphoria)](#fe---computer-programming-primitives-initially-via-euphoria-1) ####
 #### [ff - Grammar](#ff---grammar-1) ####
@@ -291,8 +292,35 @@
 2.4.2.4.4 Commercial  
 2.4.2.4.5 Residential  
   
-### 3 - Jobs  
-  
+### 3 - Jobs 
+3.1 Healthcare
+3.1.1 Anesthesiology
+3.1.2 Cardiovascular Medicine
+3.1.3 Critical Care Medicine
+3.1.4 Dentistry
+3.2 Arts & Entertainment
+3.2.1 Artistic
+3.2.2 Dance
+3.2.3 Entertainer
+3.2.4 Film & Television
+3.2.5 Writing
+3.3 Business
+3.3.1 Corporate
+3.4 Industrial & Manufacturing
+3.4.1 Metalworking 
+3.4.2 Railway Industry
+3.4.3 Sewing
+3.5 Law Enforcement & Armed Forces
+3.5.1 Detectives & Criminal Investigators
+3.5.1.1 Federal Bureau of Investigation Agents
+3.5.1.2 Private Investigators
+3.5.2 Police 
+3.5.2.1 Assistant Commissioner
+3.6 Science & Technology
+3.6.1 Scientific
+3.6.2 Engineering
+3.7 Service
+
 ### 4 - Education  
 4.fx -ology (the last 8 digits of this code match the first 8 digits of other Teknik categories)  
 4.1 Fields of Education
@@ -336,7 +364,38 @@
 5.f0.0R.R.G.GBB  
   
 ### 6 - Musical Art  
-  
+6.1 Culture
+6.2 Genre
+6.2.1 Classical
+6.2.2 Dance 
+6.2.3 Folk
+6.2.4 Instrumental
+6.2.5 Popular
+6.3 Instruments
+6.3.1 Electronic 
+6.3.2 Percussion
+6.3.3 String
+6.3.4 Keyboard
+6.3.5 Woodwind
+6.4 Composition
+6.5 Elements of Music
+6.5.1 Form
+6.5.2 Harmony
+6.5.3 Melody
+6.5.4 Texture
+6.5.5 Pitch
+6.5.6 Rhythm and Meter
+6.5.7 Timbre
+6.6 Terminology
+6.6.1 Adagio
+6.6.2 Bar or Measure
+6.6.3 Beat
+6.6.4 Falsetto
+6.7 Production
+6.7.1 Software
+6.7.2 Recording Studios
+6.7.3 Audio Engineering
+
 ### 7 - Literature  
 7.1 Concepts  
 7.1.1 Classes  
@@ -356,16 +415,51 @@
 7.2.3 In Religious exposition  
   
 ### 8 - Earth Science  
-  
+8.2 Geology
+8.3 Physical Geography
+8.4 Soil Science
+8.5 Speleology
+8.6 Software
+8.7 Organizations
+
 ### 9 - Biology  
-  
+9.1 Branches
+9.1.1 Marine Biology
+9.1.2 Microbiology
+9.1.3 Molecular Biology
+9.1.4 Botany
+9.1.5 Cell
+9.2 Biocides
+9.2.1 Antibiotics
+9.2.2 Antiparastic Agents
+9.2.3 Fungicides
+9.2.4 Herbicides
+9.2.5 Insecticides
+9.3 Classification
+9.3.1 Levels of Organization
+9.3.2 Nomenclature
+9.3.3 Phylogenetics
+9.4 Waste
+9.5 Terminology 
+9.6 Concepts
+9.6.1 Rules
+9.6.2 Laws
+9.6.3 Theorems
+9.6.4 Hypotheses
+
 ### a - Chemistry  
 a.1 Elements  
 a.1.1.1.1 Periodic Table  
 a.1.2 Attributes  
   
 ### b - Physics  
-  
+b.1 Branches
+b.1.1 Astrophysics
+b.1.2 Atomic, Molecular, and Optical Physics
+b.1.3 Classical Mechanics
+b.1.4 Thermodynamics
+b.2 Concepts
+
 ### c - Mathematics  
 c.1 Arithmetic  
 c.1.1 Operations  
@@ -720,6 +814,20 @@ f.3.5.1 General person words
 1e.2.c Wisdom
 1e.3 Principles
 1e.4 Theories
+
+### 1f - Environmental Science
+1f.1 Chemistry
+1f.2 Hydrology
+1f.3 Toxicology
+1f.4 Water Pollution
+1f.5 Soil Science
+1f.6 Microbiology
+1f.7 Ethics
+1f.8 Software
+1f.9 Social Science
+1f.a Natural Resource Management
+1f.b Environmental Management
+1f.c Sustainable Development
 
 ### fd - Computer Programming Scripted Functions  
 fd.1 Computer control  
